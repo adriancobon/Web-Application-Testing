@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
-import Display from './components/Display'
-import Dashboard from './components/Dashboard'
+import Display from './Display'
+import Dashboard from './Dashboard'
 
 import './App.css';
 
